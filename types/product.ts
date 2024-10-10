@@ -3,6 +3,6 @@ export interface Product {
   name: string
   type?: 'Laptop' | 'Desktop'
   description?: string
-  price: number | string
+  price: number
   image: string
 }

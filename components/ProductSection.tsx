@@ -9,21 +9,21 @@ const products = [
     id:1,
     name: "Student Laptop Bundle",
     description: "Perfect for university students. Includes laptop, backpack, and accessories.",
-    price: "KSh 65,000",
+    price: 65000,
     image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80"
   },
   {
     id:2,
     name: "Developer Workstation",
     description: "High-performance desktop setup for software engineers.",
-    price: "KSh 150,000",
+    price: 150000,
     image: "https://images.unsplash.com/photo-1547082299-de196ea013d6?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"
   },
   {
     id:3,
     name: "Accessories Pack",
     description: "Essential accessories including mouse, keyboard, and headphones.",
-    price: "KSh 15,000",
+    price: 15000,
     image: "https://images.unsplash.com/photo-1527814050087-3793815479db?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2028&q=80"
   }
 ]
